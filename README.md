@@ -17,11 +17,7 @@ This project utilizes Python, Pandas, Plotly, and the FRED API to analyze econom
   - fredapi
   - time
 
-### Installation
-
-1. Clone the repository: `git clone https://github.com/your_username/economic-data-analysis.git`
-2. Navigate to the project directory: `cd economic-data-analysis`
-3. Install the required packages: `pip install -r requirements.txt`
+## Important note : Plotly output cant be seen in Github but it can seen when the code runs in any jupiter platform.
 
 ### Usage
 
